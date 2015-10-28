@@ -1,0 +1,33 @@
+{
+        "php": {
+                "snippets": {
+                        "style": "<style type=\"text\/css\">|</style>",
+                        "if": "if (|) {\n}",
+                        "try": "try{\n\t|\n} catch() {\n}",
+                        "spubf": "static public function |() {\n}",
+                        "pubf": "public function |() {\n}",
+                        "sprif": "static private function |() {\n}",
+                        "prif": "private function |() {\n}",
+                        "prof": "protected function |() {\n}",
+                        "sprof": "static protected function |() {\n}" 
+                }
+        },
+
+        "xml": {
+            "snippets": {
+                "cd": "<![CDATA[|]]>",
+                "v": "<?xml version=\"1.0\"?>",
+                "ant": "<!-- | -->",
+            }
+        }, 
+
+        "html": {
+            "snippets": {
+                "ant": "<!-- | -->",
+                "s": "<script type=\"text/javascript\">\n\t|\n</script>",
+                "ss": "<script type=\"text/javascript\" src=\"|\"></script>",
+                "if": "if (|) {\n}",
+            }
+        } 
+}
+
